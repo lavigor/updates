@@ -1,0 +1,9 @@
+{
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0-RC1",
+            "eol": null,
+            "security": false
+        }
+    }
+}

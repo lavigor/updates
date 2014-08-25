@@ -6,4 +6,5 @@ Information about programs' updates.
 # Extensions
 
 Currently available extensions:
-* TinyMSE
+* Reenable Extensions
+* TinyMSE Integration

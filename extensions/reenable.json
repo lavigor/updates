@@ -2,6 +2,8 @@
     "unstable": {
         "1.0": {
             "current": "1.0.1",
+            "announcement": "https://github.com/lavigor/reenable/releases/tag/v1.0.1",
+            "download": "https://github.com/lavigor/reenable/archive/v1.0.1.zip",
             "eol": null,
             "security": false
         }
